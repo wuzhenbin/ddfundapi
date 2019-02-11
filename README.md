@@ -3,8 +3,8 @@
 #### 介绍
 某基金爬取示例代码
 
-
-
+#### 爬取思路
+https://zhuanlan.zhihu.com/p/56412622
 
 #### 文件结构
 api-test -> 历史净值的api测试  
